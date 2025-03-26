@@ -1,0 +1,7 @@
+com/hiraru/application2/controller/MessageController.class
+com/hiraru/application2/repository/MessageRepository.class
+com/hiraru/application2/repository/PersonRepository.class
+com/hiraru/application2/controller/PersonController.class
+com/hiraru/application2/dto/Person.class
+com/hiraru/application2/Application2.class
+com/hiraru/application2/dto/Message.class
