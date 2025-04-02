@@ -1,7 +1,0 @@
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/dto/Person.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/dto/Message.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/repository/PersonRepository.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/repository/MessageRepository.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/controller/PersonController.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/controller/MessageController.java
-/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/4.20 Задание 18. Реализовать вывод списка сообщений у конкретного пользователя./application2/src/main/java/com/hiraru/application2/Application2.java
