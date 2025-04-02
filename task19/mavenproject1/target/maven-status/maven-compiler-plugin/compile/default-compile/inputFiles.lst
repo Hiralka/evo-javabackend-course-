@@ -1,0 +1,10 @@
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/dto/Person.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/Mavenproject1.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/repository/WeatherRepository.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/controller/LocationController.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/repository/LocationRepository.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/dto/Weather.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/controller/PersonController.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/repository/PersonRepository.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/dto/Location.java
+/home/hiraru/Documents/JAVArepos/evo-javabackend-course-/5.2 Задание 19. Создать веб-службы location и weather./mavenproject1/src/main/java/com/hiraru/mavenproject1/controller/WeatherController.java
